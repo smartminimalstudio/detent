@@ -1,6 +1,6 @@
 # DETENT• — product website
 
-[DETENT product website](https://smartminimalstudio.github.io/products/detent/)
+[DETENT product website](https://smartminimalstudio.pages.dev/products/detent/)
 
 Public marketing site for a modular under-desk laptop support. GitHub Pages serves `main:/docs`; no build step is required. Preview with `python3 -m http.server 8080 --directory docs`.
 
@@ -15,3 +15,6 @@ D33 improves fastener assembly access and documents the actual front/rear assemb
 © 2026 Wes Guirra. New distributions are subject to the supplied paid licence. Previously granted rights are not revoked.
 
 Purchase buttons use the direct Payhip checkout (`/buy?link=pT3IL`) to skip a duplicate product page. Checkout branding uses the DETENT logo, site palette and current D33 raster imagery. Payment controls and delivery remain hosted by Payhip/Stripe.
+
+
+Commercial hosting moved to Cloudflare Pages Free. GitHub Pages uses the `pages-redirect` branch for compatibility links only. Current product: https://smartminimalstudio.pages.dev/products/detent/
