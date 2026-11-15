@@ -1,19 +1,15 @@
 # DETENT• — product website
 
-Public marketing website for DETENT, a modular under-desk laptop support.
+[DETENT product website](https://wesguirra.github.io/detent/)
 
-[Product website](https://wesguirra.github.io/detent/)
+Public marketing site for a modular under-desk laptop support. GitHub Pages serves `main:/docs`; no build step is required. Preview with `python3 -m http.server 8080 --directory docs`.
 
-This repository contains website code, rendered images, videos and raster color previews only. CAD, STL, print projects and assembly manuals are not hosted here. Project access is paid; commercial physical-printing rights require a separate licence.
+Current presentation: D33 mechanical development edition, without integrated USB hardware. Images, six adjustment/release videos, and the draggable hero sequence are rendered from the saved D33 CAD. The hero honors reduced-motion and data-saving preferences, supports play/pause, pointer drag and keyboard scrubbing, and pauses offscreen. Finish and language preferences stay in the browser.
 
-The D25 product is a development prototype without a validated load rating. Personal-use access is US$19 as a one-time purchase. The live Payhip product page is https://payhip.com/b/pT3IL, with Stripe connected and a US$19 USD checkout.
+This repository contains HTML, CSS, JavaScript, raster images, MP4 videos and raster finish masks only. It does not host CAD, STL, 3MF, mesh geometry, customer archives or assembly manuals. Files and the offline assembly viewer are delivered privately through the selling platform.
 
-GitHub Pages serves `main:/docs`. Preview locally with `python3 -m http.server 8080 --directory docs`. The site has no build step, analytics or payment processing. Color and language preferences are stored in the browser.
+Personal-use digital access is US$19 once, via [Payhip](https://payhip.com/b/pT3IL). Selling physical prints requires a separate commercial grant; the advertised commercial offer is US$29/year after written activation. Checkout configuration contains only public settings. The website does not process payments or collect analytics.
 
-© 2026 Wes Guirra. All rights reserved for new distributions. Previously granted licences are not revoked by this distribution change.
+D33 improves fastener assembly access and documents the actual front/rear assembly order. The geometry and sampled assembly paths are checked; physical load, impact, creep, click and fatigue qualification remain outstanding. No load rating is claimed.
 
-Current presentation: D25 mechanical revision, without integrated USB hardware. Product imagery, adjustment videos and finish masks are generated from the saved D25 CAD. The private STL package is not part of this repository.
-
-D25 adds four universal upper-edge keepers, with pinned opening setup at 18 / 24 / 30 / 36 mm. This revision is geometrically checked but has no physical impact qualification. Private printing includes STL and color-separated Orca 3MF projects; neither is hosted in this repository.
-
-Commerce: `docs/assets/store-config.js` holds only public checkout configuration. The US$19 button links to the verified Payhip product page. Gumroad and Lemon Squeezy hosted URLs are also supported if the chosen provider changes. The static fallback also links to the verified product; project archives are never public. Paid customer archives belong in the selling platform only.
+© 2026 Wes Guirra. New distributions are subject to the supplied paid licence. Previously granted rights are not revoked.
