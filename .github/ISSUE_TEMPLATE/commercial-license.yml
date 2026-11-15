@@ -8,7 +8,7 @@ body:
         This is a public request, not checkout or license activation.
         Do not include payment, billing, private contact or personal information.
         D25 is a prototype without a validated load rating.
-        Read [the offer](https://github.com/wesguirra/detent/blob/main/COMMERCIAL-LICENSE.md).
+        Read [the offer](https://github.com/smartminimalstudio/detent/blob/main/COMMERCIAL-LICENSE.md).
   - type: input
     id: maker
     attributes:

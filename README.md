@@ -1,6 +1,6 @@
 # DETENT• — product website
 
-[DETENT product website](https://wesguirra.github.io/detent/)
+[DETENT product website](https://smartminimalstudio.github.io/products/detent/)
 
 Public marketing site for a modular under-desk laptop support. GitHub Pages serves `main:/docs`; no build step is required. Preview with `python3 -m http.server 8080 --directory docs`.
 
