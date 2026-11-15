@@ -8,7 +8,7 @@ Current presentation: D33 mechanical development edition, without integrated USB
 
 This repository contains HTML, CSS, JavaScript, raster images, MP4 videos and raster finish masks only. It does not host CAD, STL, 3MF, mesh geometry, customer archives or assembly manuals. Files and the offline assembly viewer are delivered privately through the selling platform.
 
-Personal-use digital access is US$19 once, via [Payhip](https://payhip.com/b/pT3IL). Selling physical prints requires a separate commercial grant; the advertised commercial offer is [US$79 for 12 months](https://smartminimalstudio.pages.dev/products/detent/commercial), with manual renewal. Checkout configuration contains only public settings. The website does not process payments. Optional analytics requires consent.
+Personal-use digital access is US$19 once, via [Payhip](https://payhip.com/b/pT3IL). Selling physical prints requires a separate commercial grant; the advertised commercial offer is [US$79 for 12 months](https://smartminimalstudio.pages.dev/products/detent/commercial), with manual renewal and the complete D33 files included. No separate US$19 purchase is required for the commercial edition. Checkout configuration contains only public settings. The website does not process payments. Optional analytics requires consent.
 
 D33 improves fastener assembly access and documents the actual front/rear assembly order. The geometry and sampled assembly paths are checked; physical load, impact, creep, click and fatigue qualification remain outstanding. No load rating is claimed.
 
